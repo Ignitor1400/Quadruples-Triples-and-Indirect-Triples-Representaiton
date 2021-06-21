@@ -1,4 +1,4 @@
-# Quadruples-Triples-and-Indirect-Triples-Representaiton
+# 3-Address-Representaiton
 
 
 
